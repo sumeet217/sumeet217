@@ -89,13 +89,11 @@
 
 <h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> GitHub Analytics </h2>
 <p align="center"> 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sumeet217&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&bg_color=0D1117"/> 
+
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumeet217&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117"/> 
 </p>
 
-<p align="center"> 
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeet217&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&langs_count=8"/> 
-</p>
+
 
 <p align="center"> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumeet217&theme=tokyo-night&hide_border=true&radius=16&area=true" width="95%"/> 
